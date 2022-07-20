@@ -1,0 +1,50 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // start coding here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2188#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 10. Cannot check answer. Perhaps output format is wrong.
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    10
+    48
+    6
+    42
+    48
+    85
+    82
+    12
+    36
+    58
+    62
+
+    Correct output:
+    192
+
+    Your code output:
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+  time: Sat, 16 Jul 2022 12:13:49 UTC
+record: -1
